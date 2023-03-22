@@ -1,0 +1,9 @@
+.divergente {
+    height: 100% /* ancho base */
+}
+
+@media screen and (max-width: 480px) {
+    .divergente {
+        width: 100%;
+    }
+}
